@@ -1,20 +1,19 @@
-# jetfire 0.1.3
+# angular-barcode-example 0.1.0
 
-Extremely lightweight web prototyping environment. Based on the output of the [Yeoman web app generator](https://github.com/yeoman/generator-webapp) without all the cruft.
+An example that calls the jQuery.EAN13 plugin from within Angular. Built using [jetfire](https://github.com/thegreatsunra/jetfire).
 
 ## Getting started
 
 1. Download and install [Node](http://nodejs.org)
 1. At the command line install [Bower](http://bower.io) and [Grunt](http://gruntjs.com) globally by typing `sudo npm install -g bower grunt-cli`
-1. Clone this repository (or download and unzip it) to begin a new jetfire project
+1. Clone this repository, or download and unzip it
 
-### Now you're ready to use jetfire
+### Now you're ready to roll
 
-1. Open your new jetfire project at the command line
+1. Open this project at the command line
 1. Type `npm install && bower install` to install all dependencies
-1. Type `grunt` to start your development server. jetfire will monitor the `/app` folder and refresh your browser whenever it detects changes
-1. Open [http://localhost:9000](http://localhost:9000) in a web browser to view your site
-1. Modify the files in the `/app` folder to build your prototype
+1. Type `grunt` to start the development server
+1. Open [http://localhost:9000](http://localhost:9000) in a web browser to view the example
 
 ## License
 
