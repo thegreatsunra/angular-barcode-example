@@ -1,7 +1,7 @@
 {
-    "name": "jetfire",
-    "description": "Extremely lightweight web prototyping environment",
-    "version": "0.1.3",
+    "name": "angular-barcode-example",
+    "description": "An example that calls the jQuery.EAN13 plugin from within Angular",
+    "version": "0.1.0",
     "author": "Dane Petersen",
     "licenses": [
         {
